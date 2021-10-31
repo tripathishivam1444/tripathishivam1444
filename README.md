@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tripathishivam1444
+- 👋 Hi, I’m Utkarsh Tripathi
 - 👀 I’m interested in Data Science, Machine Learning & AI
 - 🌱 I’m currently learning Data Science From University of mumbai.
 - 💞️ I’m looking to collaborate on ...
